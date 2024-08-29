@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iregurse.github.io/sitemap.html.gz
+Sitemap: https://iregurse.github.io/app/sitemap.html.gz
+Sitemap: https://iregurse.github.io/assets/sitemap.html.gz
+Sitemap: https://iregurse.github.io/css/sitemap.html.gz
+Sitemap: https://iregurse.github.io/includes/sitemap.html.gz
+Sitemap: https://iregurse.github.io/item/sitemap.html.gz
+Sitemap: https://iregurse.github.io/src/sitemap.html.gz
